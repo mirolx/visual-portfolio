@@ -1,0 +1,5 @@
+# 영상 제작용 원본 사진 (사이트에서는 assets/videos/mcgill.mp4만 쓴다)
+assets/photos/
+
+# 로컬 미리보기 설정
+.claude/
